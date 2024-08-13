@@ -1,8 +1,13 @@
-# RealVision
- Decals for Skylines II
+#
+# RealVision Decals
+# for Skylines II
+# --
+# alpha version
+---
 
-Add them to your "LocalLow"
-LocalLow CS2 folder > ModsData > ExtraAssetImporter and make the folders CustomDecals > (category)
+## Instruction:
 
-For mroe information:
+For more  information and how to install these Decals refer to:
 https://github.com/AlphaGaming7780/ExtraAssetsImporter/wiki/Custom-Decals
+
+## Guidelines
