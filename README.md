@@ -1,9 +1,7 @@
-#
+
 # RealVision Decals
-# for Skylines II
-# --
-# alpha version
----
+for Cities Skylines II
+- alpha version
 
 ## Instruction:
 
