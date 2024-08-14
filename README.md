@@ -4,10 +4,18 @@
 for Cities Skylines II
 - alpha version
 
+Current:
+- 2 Street Tags
+- 1 Graffiti
+- 93 Decals
+
+
 # RealVision CustomSurfaces
 for Cities Skylines II
 - alpha version
 
+Current:
+- 23 Pavement Surfaces
 
 ## Instruction for the Decals // CustomSurfaces
 
