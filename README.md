@@ -8,6 +8,14 @@ Current:
 - 2 Street Tags
 - 1 Graffiti
 - 93 Decals
+  - Road Cracks
+  - Pavements & Asphalt
+  - Grass & Dirt mixture
+  - XL Terrains
+  - Roundabout Textures ( 2 sizes + curve )
+  - Grass
+  - Half Side Roads
+  - Wild Pathways
 
 
 # RealVision CustomSurfaces
@@ -17,7 +25,22 @@ for Cities Skylines II
 Current:
 - 23 Pavement Surfaces
 
-## Instruction for the Decals // CustomSurfaces
+# ExtraAssetImporter
 
+Instruction for the Decals // CustomSurfaces
 For more  information and how to install these Decals refer to:
 https://github.com/AlphaGaming7780/ExtraAssetsImporter/wiki/Custom-Decals
+
+# Tips 
+Check my Folder for some ideas!
+There are no rules to this Decals, mix and blend, hopefully it will turn out great :D
+
+Based on:
+- Google Street Photography
+  - Portugal / Almada
+  - Dallas
+  - Norway  
+- Aerial Views
+- SketchFab
+- Personal Photos
+
