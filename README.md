@@ -24,6 +24,9 @@ for Cities Skylines II
 
 Current:
 - 23 Pavement Surfaces
+  - cobblestones (  medieval / old / modern )
+  - 1 Portuguese cobblestone!
+  - 2 Red Cobblestones
 
 # ExtraAssetImporter
 
