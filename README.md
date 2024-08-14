@@ -1,3 +1,4 @@
+![Logo](https://github.com/MiguelRita/RealViewDecals/blob/main/Previews/Resources/RealVision_Logo.png?raw=true)
 
 # RealVision Decals
 for Cities Skylines II
