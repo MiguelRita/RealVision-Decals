@@ -5,9 +5,9 @@ for Cities Skylines II
 - alpha version
 
 Current:
-- 2 Street Tags
+- 5 Street Tags
 - 1 Graffiti
-- 93 Decals
+- 129 Decals
   - Road Cracks
   - Pavements & Asphalt
   - Grass & Dirt mixture
@@ -23,10 +23,12 @@ for Cities Skylines II
 - alpha version
 
 Current:
-- 23 Pavement Surfaces
-  - cobblestones (  medieval / old / modern )
-  - 1 Portuguese cobblestone!
-  - 2 Red Cobblestones
+- 36 Pavement Surfaces
+  - 29 Pavements
+  - 3 Terrains
+  - 2 Grass
+  - 2 Asphalt
+
 
 # ExtraAssetImporter
 
