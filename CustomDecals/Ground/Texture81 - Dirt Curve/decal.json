@@ -1,11 +1,12 @@
 {
     "Float": {
+	"_DrawOrder": 20,
         "_Metallic": 0,
         "_Smoothness": 0,
         "colossal_DecalLayerMask": 3,
         "_NormalOpacity": 0,
         "_MetallicOpacity": 0,
-	"UiPriority": 9341
+	"UiPriority": 8400
     },
     "Vector": {
         "colossal_MeshSize": {
