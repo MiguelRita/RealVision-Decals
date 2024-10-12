@@ -46,6 +46,12 @@ Instruction for the Decals // CustomSurfaces
 For more  information and how to install these Decals refer to:
 https://github.com/AlphaGaming7780/ExtraAssetsImporter/wiki/Custom-Decals
 
+---
+### 🎬 How To Install Custom Surfaces AND Decals in Cities: Skylines 2
+Moose (a City Building Focused Creator and a great guy) has prepared a video with all the steps, which will hopefully guide you through the process even better!
+- https://www.youtube.com/watch?v=ydWBMnupuvk&ab_channel=MooseHXC
+---
+
 # Tips 
 Check my Folder for some ideas!
 There are no rules to this Decals, mix and blend, hopefully it will turn out great :D
