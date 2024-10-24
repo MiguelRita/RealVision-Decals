@@ -1,8 +1,9 @@
 {
     "Float": {
-      "colossal_UVScale": 0.1,
+	
+      "colossal_UVScale": 0.25,
+      "colossal_DecalLayerMask": 3,
       "colossal_EdgeNormal": 0
-    "colossal_DecalLayerMask": 3,
     },
     "Vector": {
         "colossal_EdgeFadeRange": {
@@ -20,7 +21,7 @@
     },
     "prefabIdentifierInfos": [
         {
-            "m_Name": "Cobble 029",
+            "m_Name": "Asphalt 03",
             "m_Type": "SurfacePrefab"
         }
     ]

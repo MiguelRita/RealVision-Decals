@@ -1,8 +1,9 @@
 {
+ "m_Roundness": 0,
     "Float": {
-      "colossal_UVScale": 0.25,
-      "colossal_EdgeNormal": 0
-    "colossal_DecalLayerMask": 3,
+      "colossal_UVScale": 0.5,
+      "colossal_EdgeNormal": 0,
+    "colossal_DecalLayerMask": 3
     },
     "Vector": {
         "colossal_EdgeFadeRange": {
@@ -20,7 +21,7 @@
     },
     "prefabIdentifierInfos": [
         {
-            "m_Name": "Cobble 030",
+            "m_Name": "Cobble 032",
             "m_Type": "SurfacePrefab"
         }
     ]
