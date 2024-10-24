@@ -1,8 +1,9 @@
 {
     "Float": {
+	"_DrawOrder": 110,
         "_Metallic": 0,
         "_Smoothness": 0,
-        "colossal_DecalLayerMask": 7,
+        "colossal_DecalLayerMask": 4,
         "_NormalOpacity": 0,
         "_MetallicOpacity": 0,
 	"UiPriority": 8400
