@@ -41,7 +41,7 @@ ___
 - C:\Users\USERNAME\AppData\LocalLow\Colossal Order\Cities Skylines II\ModsData\ExtraAssetsImporter\CustomSurfaces\Rock
 
 ### Add Netlanes here:
-- C:\Users\USERNAME\AppData\LocalLow\Colossal Order\Cities Skylines II\ModsData\ExtraAssetsImporter\CustomNetLanes\Road
+- C:\Users\USERNAME\AppData\LocalLow\Colossal Order\Cities Skylines II\ModsData\ExtraAssetsImporter\CustomNetLanes\Roadway
 
 Check the EAI wiki for the CategoryNames!
 
