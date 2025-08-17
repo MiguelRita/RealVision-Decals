@@ -3,26 +3,16 @@
 
 
 # RealVision Decals
-for Cities Skylines II
-- alpha version
+Updated August 17 - 2025
 
 Current:
-- 5 Street Tags
-- 1 Graffiti
-- 129 Decals
-  - Road Cracks
-  - Pavements & Asphalt
-  - Grass & Dirt mixture
-  - XL Terrains
-  - Roundabout Textures ( 2 sizes + curve )
-  - Grass
-  - Half Side Roads
-  - Wild Pathways
-
+  - Over 200 high-quality decals for detailing and customization.
+  - Includes graffiti sets, aerial textures, dirt and grass patches, sand, foliage, and park details.
+  - Road and pavement utilities: cracks, curbs, side markings, dust, and damaged asphalt.
+  - Special sets for castles, stone walls, and rural paths.
+  - Designed for flexible city detailing, from urban streets to natural landscapes.
 
 # RealVision CustomSurfaces
-for Cities Skylines II
-- alpha version
 
 Current:
 - 36 Pavement Surfaces
@@ -31,14 +21,27 @@ Current:
   - 2 Grass
   - 2 Asphalt
 
+# RealVision Netlanes (beta Version)
+
+Current:
+- 37 NetLanes
+  - roads
+  - roads + side pavement
+  - curbs
+  - paths
+
+___
 
 # ExtraAssetImporter
 
-Add CustomDecals here:
-- C:\Users\USERNAME\AppData\LocalLow\Colossal Order\Cities Skylines II\ModsData\ExtraAssetsImporter\CustomDecals\CategoryName
+### Add CustomDecals here:
+- C:\Users\USERNAME\AppData\LocalLow\Colossal Order\Cities Skylines II\ModsData\ExtraAssetsImporter\CustomDecals\Ground
 
-Add CustomSurfaces here:
-- C:\Users\USERNAME\AppData\LocalLow\Colossal Order\Cities Skylines II\ModsData\ExtraAssetsImporter\CustomSurfaces\CategoryName
+### Add CustomSurfaces here:
+- C:\Users\USERNAME\AppData\LocalLow\Colossal Order\Cities Skylines II\ModsData\ExtraAssetsImporter\CustomSurfaces\Rock
+
+### Add Netlanes here:
+- C:\Users\USERNAME\AppData\LocalLow\Colossal Order\Cities Skylines II\ModsData\ExtraAssetsImporter\CustomNetLanes\Road
 
 Check the EAI wiki for the CategoryNames!
 

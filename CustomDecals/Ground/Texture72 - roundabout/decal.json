@@ -1,24 +1,25 @@
 {
-    "Float": {
-        "_Metallic": 0,
-        "_Smoothness": 0,
-        "colossal_DecalLayerMask": 3,
-        "_NormalOpacity": 0,
-        "_MetallicOpacity": 0,
-	"UiPriority": 8900
+  "Float": {
+    "_Metallic": 0,
+    "_Smoothness": 0,
+    "colossal_DecalLayerMask": 3,
+    "_NormalOpacity": 0,
+    "_MetallicOpacity": 0,
+    "UiPriority": 8900,
+    "_DrawOrder": 100
+  },
+  "Vector": {
+    "colossal_MeshSize": {
+      "x": 25,
+      "y": 1,
+      "z": 25,
+      "w": 0
     },
-    "Vector": {
-        "colossal_MeshSize": {
-            "x": 25,
-            "y": 1,
-            "z": 25,
-            "w": 0
-        },
-        "colossal_TextureArea": {
-            "x": 0,
-            "y": 0,
-            "z": 1,
-            "w": 1
-        }
+    "colossal_TextureArea": {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "w": 1
     }
+  }
 }

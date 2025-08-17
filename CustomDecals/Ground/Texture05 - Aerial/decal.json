@@ -5,7 +5,7 @@
         "colossal_DecalLayerMask": 4,
         "_NormalOpacity": 0,
         "_MetallicOpacity": 0,
-	"UiPriority": 8000
+	"UiPriority": 8800
     },
     "Vector": {
         "colossal_MeshSize": {

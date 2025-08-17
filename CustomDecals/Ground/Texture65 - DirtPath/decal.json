@@ -11,7 +11,7 @@
     "Vector": {
         "colossal_MeshSize": {
             "x": 60,
-            "y": 1,
+            "y": 10,
             "z": 60,
             "w": 0
         },
