@@ -1,7 +1,7 @@
 {
   "Float": {
-    "colossal_EdgeNormal": 0
-    "colossal_DecalLayerMask": 3,
+    "colossal_EdgeNormal": 0,
+    "colossal_DecalLayerMask": 3
   },
   "Vector": {
     "colossal_EdgeFadeRange": {
@@ -17,10 +17,5 @@
       "w": 0
     }
   },
-  "prefabIdentifierInfos": [
-    {
-      "m_Name": "Cobble 03",
-      "m_Type": "SurfacePrefab"
-    }
-  ]
+  "prefabIdentifierInfos": []
 }

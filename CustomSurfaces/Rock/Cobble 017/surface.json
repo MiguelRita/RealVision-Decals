@@ -16,10 +16,5 @@
       "w": 0
     }
   },
-  "prefabIdentifierInfos": [
-    {
-      "m_Name": "Cobble017",
-      "m_Type": "SurfacePrefab"
-    }
-  ]
+  "prefabIdentifierInfos": []
 }
