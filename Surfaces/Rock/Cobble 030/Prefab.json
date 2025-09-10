@@ -1,0 +1,7 @@
+{
+    "Components": {
+        "Game.Prefabs.RenderedArea": {
+            "Roundness": 0
+        }
+    }
+}
