@@ -1,0 +1,7 @@
+{
+    "Components": {
+        "Game.Prefabs.UIObject": {
+            "m_Priority": 8900
+        }
+    }
+}
